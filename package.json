@@ -1,0 +1,15 @@
+{
+  "name": "rr-program",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal Returns & Refunds (R-R) program model with a sleek, business-focused interface and tiny footprint.",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "NODE_ENV=development node src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
